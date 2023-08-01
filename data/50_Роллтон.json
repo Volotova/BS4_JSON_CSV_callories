@@ -1,0 +1,730 @@
+[
+    {
+        "Title": "Gold Роллтон",
+        "Calorise": "340 кКал",
+        "Proteins": "8 г",
+        "Fats": "12 г",
+        "Carbohydrates": "49 г"
+    },
+    {
+        "Title": "Бульон Говяжий Домашний [Роллтон]",
+        "Calorise": "76 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "14,5 г"
+    },
+    {
+        "Title": "Бульон Говяжий с Сухариками [Роллтон]",
+        "Calorise": "390 кКал",
+        "Proteins": "2 г",
+        "Fats": "11 г",
+        "Carbohydrates": "72 г"
+    },
+    {
+        "Title": "Бульон Домашний Грибной [Роллтон]",
+        "Calorise": "85 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "1 г",
+        "Carbohydrates": "17 г"
+    },
+    {
+        "Title": "Бульон Домашний Куриный [Роллтон]",
+        "Calorise": "80 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "Title": "Бульон Домашний Мясной [Роллтон]",
+        "Calorise": "91 кКал",
+        "Proteins": "1 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "14,4 г"
+    },
+    {
+        "Title": "Бульон Домашний с Белыми Грибами [Роллтон]",
+        "Calorise": "85 кКал",
+        "Proteins": "1 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "17 г"
+    },
+    {
+        "Title": "Бульон Куриный Домашний [Роллтон]",
+        "Calorise": "85 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "2 г",
+        "Carbohydrates": "15 г"
+    },
+    {
+        "Title": "Бульон Приправа Куриный с Пряностями [Роллтон]",
+        "Calorise": "67 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "14,6 г"
+    },
+    {
+        "Title": "Бульон с Индейкой [Роллтон]",
+        "Calorise": "160 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "2 г",
+        "Carbohydrates": "35 г"
+    },
+    {
+        "Title": "Вермишель [Роллтон]",
+        "Calorise": "450 кКал",
+        "Proteins": "9 г",
+        "Fats": "21 г",
+        "Carbohydrates": "57 г"
+    },
+    {
+        "Title": "Вермишель Быстрого Приготовления [Роллтон]",
+        "Calorise": "480 кКал",
+        "Proteins": "7,9 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "60,8 г"
+    },
+    {
+        "Title": "Вермишель из Твёрдых Сортов Пшеницы [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "71 г"
+    },
+    {
+        "Title": "Вермишель на Домашнем Бульоне с Белыми Грибами [Роллтон]",
+        "Calorise": "420 кКал",
+        "Proteins": "7 г",
+        "Fats": "21 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Вермишель на Домашнем Бульоне с Говядиной [Роллтон]",
+        "Calorise": "440 кКал",
+        "Proteins": "7 г",
+        "Fats": "23 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Вермишель на Домашнем Бульоне с Грибами [Роллтон]",
+        "Calorise": "440 кКал",
+        "Proteins": "7 г",
+        "Fats": "23 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Вермишель на Домашнем Бульоне с Курицей [Роллтон]",
+        "Calorise": "440 кКал",
+        "Proteins": "7 г",
+        "Fats": "23 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Вермишель на Домашнем Бульоне с Овощами [Роллтон]",
+        "Calorise": "420 кКал",
+        "Proteins": "7 г",
+        "Fats": "21 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Вермишель на Домашнем Бульоне с Острой Курицей [Роллтон]",
+        "Calorise": "420 кКал",
+        "Proteins": "7 г",
+        "Fats": "21 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Вермишель на Домашнем Бульоне с Сыром и Беконом [Роллтон]",
+        "Calorise": "450 кКал",
+        "Proteins": "9 г",
+        "Fats": "21 г",
+        "Carbohydrates": "57 г"
+    },
+    {
+        "Title": "Вермишель с Острой Курицей [Роллтон]",
+        "Calorise": "452 кКал",
+        "Proteins": "8,7 г",
+        "Fats": "21,1 г",
+        "Carbohydrates": "56,7 г"
+    },
+    {
+        "Title": "Вермишель с Сыром и Беконом [Роллтон]",
+        "Calorise": "420 кКал",
+        "Proteins": "7 г",
+        "Fats": "21 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Витки [Роллтон]",
+        "Calorise": "344 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "71,5 г"
+    },
+    {
+        "Title": "Гнезда [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "2 г",
+        "Carbohydrates": "70 г"
+    },
+    {
+        "Title": "Горячая Порция Лапша с Говядиной [Роллтон]",
+        "Calorise": "390 кКал",
+        "Proteins": "7 г",
+        "Fats": "17 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Горячая Порция Лапша с Курицей [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "6 г",
+        "Fats": "17 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Горячая Порция с Курицей [Роллтон]",
+        "Calorise": "440 кКал",
+        "Proteins": "7 г",
+        "Fats": "23 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Грибная Лапша по-Домашнему [Роллтон]",
+        "Calorise": "431 кКал",
+        "Proteins": "7,7 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "56,1 г"
+    },
+    {
+        "Title": "Жареный Картофель с Луком и Беконом [Роллтон]",
+        "Calorise": "93 кКал",
+        "Proteins": "2,2 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "14,6 г"
+    },
+    {
+        "Title": "Камчатский Краб [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "7 г",
+        "Fats": "17 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Картошка [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67 г"
+    },
+    {
+        "Title": "Крем-Суп Куриный с Сухариками [Роллтон]",
+        "Calorise": "410 кКал",
+        "Proteins": "3 г",
+        "Fats": "17,5 г",
+        "Carbohydrates": "59 г"
+    },
+    {
+        "Title": "Крем-Суп с Лесными Грибами и Сухариками [Роллтон]",
+        "Calorise": "380 кКал",
+        "Proteins": "7 г",
+        "Fats": "15 г",
+        "Carbohydrates": "55 г"
+    },
+    {
+        "Title": "Куриная Лапша по-Домашнему [Роллтон]",
+        "Calorise": "410 кКал",
+        "Proteins": "7,5 г",
+        "Fats": "19 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Куриная Лапша по-Домашнему Острая [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "16 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Лагман с Бараниной [Роллтон]",
+        "Calorise": "308 кКал",
+        "Proteins": "5,4 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "36,8 г"
+    },
+    {
+        "Title": "Лазанья [Роллтон]",
+        "Calorise": "326 кКал",
+        "Proteins": "10 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "69,1 г"
+    },
+    {
+        "Title": "Лапша [Роллтон]",
+        "Calorise": "320 кКал",
+        "Proteins": "6 г",
+        "Fats": "14 г",
+        "Carbohydrates": "43 г"
+    },
+    {
+        "Title": "Лапша без Масла [Роллтон]",
+        "Calorise": "338 кКал",
+        "Proteins": "10 г",
+        "Fats": "2 г",
+        "Carbohydrates": "70 г"
+    },
+    {
+        "Title": "Лапша Быстрого Приготовления [Роллтон]",
+        "Calorise": "410 кКал",
+        "Proteins": "7,5 г",
+        "Fats": "19 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Лапша Быстрого Приготовления со Вкусом Варёной Креветки [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "6 г",
+        "Fats": "17 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Лапша Куриные Крылышки Баффало [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "6 г",
+        "Fats": "17 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Лапша Лагман с Бараниной [Роллтон]",
+        "Calorise": "310 кКал",
+        "Proteins": "5,5 г",
+        "Fats": "16 г",
+        "Carbohydrates": "37 г"
+    },
+    {
+        "Title": "Лапша Лагман с Бараниной по-Домашнему [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "7 г",
+        "Fats": "17 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Лапша по-Домашнему с Белыми Грибами [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "7 г",
+        "Fats": "18 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Лапша по-Домашнему с Овощами [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "7 г",
+        "Fats": "18 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Лапша Рисовая [Роллтон]",
+        "Calorise": "332 кКал",
+        "Proteins": "8 г",
+        "Fats": "0 г",
+        "Carbohydrates": "75 г"
+    },
+    {
+        "Title": "Лапша с Говядиной [Роллтон]",
+        "Calorise": "390 кКал",
+        "Proteins": "7 г",
+        "Fats": "17 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Лапша с Говядиной по-Домашнему [Роллтон]",
+        "Calorise": "388 кКал",
+        "Proteins": "6,9 г",
+        "Fats": "17,6 г",
+        "Carbohydrates": "50,5 г"
+    },
+    {
+        "Title": "Лапша с Говядиной по-Домашнему [Роллтон]",
+        "Calorise": "395 кКал",
+        "Proteins": "7 г",
+        "Fats": "17 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Лапша с Говядиной по-Домашнему Острая [Роллтон]",
+        "Calorise": "360 кКал",
+        "Proteins": "7 г",
+        "Fats": "16 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Лапша с Курицей Цезарь [Роллтон]",
+        "Calorise": "448 кКал",
+        "Proteins": "8,8 г",
+        "Fats": "20,7 г",
+        "Carbohydrates": "56,7 г"
+    },
+    {
+        "Title": "Лапша с Огоньком со Вкусом Курицы [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "16 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Лапша с Сыром и Беконом [Роллтон]",
+        "Calorise": "420 кКал",
+        "Proteins": "7 г",
+        "Fats": "21 г",
+        "Carbohydrates": "50 г"
+    },
+    {
+        "Title": "Лапша со Вкусом Варёной Креветки К Пиву [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "6 г",
+        "Fats": "17 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Лапша Яичная [Роллтон]",
+        "Calorise": "290 кКал",
+        "Proteins": "10 г",
+        "Fats": "2 г",
+        "Carbohydrates": "59 г"
+    },
+    {
+        "Title": "Лапша Яичная для Бешбармака [Роллтон]",
+        "Calorise": "326 кКал",
+        "Proteins": "10 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "69,1 г"
+    },
+    {
+        "Title": "Лапша Яичная Классическая [Роллтон]",
+        "Calorise": "300 кКал",
+        "Proteins": "10 г",
+        "Fats": "2 г",
+        "Carbohydrates": "60 г"
+    },
+    {
+        "Title": "Лапша Яичная Отварная [Роллтон]",
+        "Calorise": "107 кКал",
+        "Proteins": "3,5 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "21,4 г"
+    },
+    {
+        "Title": "Лапша Яичная по-Домашнему [Роллтон]",
+        "Calorise": "300 кКал",
+        "Proteins": "10 г",
+        "Fats": "2 г",
+        "Carbohydrates": "60 г"
+    },
+    {
+        "Title": "Макароны [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "71 г"
+    },
+    {
+        "Title": "Макароны Гнезда [Роллтон]",
+        "Calorise": "344 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "71,5 г"
+    },
+    {
+        "Title": "Макароны Перья [Роллтон]",
+        "Calorise": "344 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "71,5 г"
+    },
+    {
+        "Title": "Макароны Рожки [Роллтон]",
+        "Calorise": "344 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "71,5 г"
+    },
+    {
+        "Title": "Макароны Спирали [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "72 г"
+    },
+    {
+        "Title": "Острая Куриная Лапша по-Домашнему [Роллтон]",
+        "Calorise": "410 кКал",
+        "Proteins": "7,5 г",
+        "Fats": "19 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Перья Из Твёрдых Сортов Пшеницы [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "71 г"
+    },
+    {
+        "Title": "Пикантная Заправка [Роллтон]",
+        "Calorise": "375 кКал",
+        "Proteins": "6 г",
+        "Fats": "18 г",
+        "Carbohydrates": "47 г"
+    },
+    {
+        "Title": "Постное Меню [Роллтон]",
+        "Calorise": "420 кКал",
+        "Proteins": "7 г",
+        "Fats": "21 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Приправа [Роллтон]",
+        "Calorise": "65 кКал",
+        "Proteins": "1 г",
+        "Fats": "1 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "Title": "Приправа Универсальная Грибная [Роллтон]",
+        "Calorise": "90 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "21 г"
+    },
+    {
+        "Title": "Приправа Универсальная для Курицы [Роллтон]",
+        "Calorise": "90 кКал",
+        "Proteins": "1 г",
+        "Fats": "1 г",
+        "Carbohydrates": "19 г"
+    },
+    {
+        "Title": "Пюре [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "66,5 г"
+    },
+    {
+        "Title": "Пюре Быстрого Приготовления [Роллтон]",
+        "Calorise": "377 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "75,3 г"
+    },
+    {
+        "Title": "Пюре Картофельное \"Готовить Легко\" [Роллтон]",
+        "Calorise": "330 кКал",
+        "Proteins": "7,9 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "73,8 г"
+    },
+    {
+        "Title": "Пюре Картофельное Жареные Лисички со Сметаной [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67 г"
+    },
+    {
+        "Title": "Пюре Картофельное Классическое [Роллтон]",
+        "Calorise": "330 кКал",
+        "Proteins": "8 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "74 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Говядиной [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Жареным Луком [Роллтон]",
+        "Calorise": "390 кКал",
+        "Proteins": "8,5 г",
+        "Fats": "9 г",
+        "Carbohydrates": "69 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Куриным Вкусом [Роллтон]",
+        "Calorise": "410 кКал",
+        "Proteins": "8,5 г",
+        "Fats": "11 г",
+        "Carbohydrates": "68 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Курицей [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Молоком [Роллтон]",
+        "Calorise": "350 кКал",
+        "Proteins": "9 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "68 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Мясным Вкусом [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Нежным Сливочным Вкусом [Роллтон]",
+        "Calorise": "377 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "75,3 г"
+    },
+    {
+        "Title": "Пюре Картофельное с Сухариками [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67 г"
+    },
+    {
+        "Title": "Пюре Картофельное со Вкусом Ветчины и Сыра [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "9 г",
+        "Fats": "6 г",
+        "Carbohydrates": "70 г"
+    },
+    {
+        "Title": "Пюре Картофельное со Вкусом Жареных Лисичек со Сметаной [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67 г"
+    },
+    {
+        "Title": "Пюре Картофельное со Вкусом Томленой Курочки с Сыром [Роллтон]",
+        "Calorise": "360 кКал",
+        "Proteins": "6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "66 г"
+    },
+    {
+        "Title": "Пюре Картофельное со Сливочным Вкусом [Роллтон]",
+        "Calorise": "360 кКал",
+        "Proteins": "6 г",
+        "Fats": "6 г",
+        "Carbohydrates": "70 г"
+    },
+    {
+        "Title": "Пюре с Мясным Вкусом [Роллтон]",
+        "Calorise": "377 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "75,3 г"
+    },
+    {
+        "Title": "Пюре с Сухариками [Роллтон]",
+        "Calorise": "377 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "75,3 г"
+    },
+    {
+        "Title": "Ракушки [Роллтон]",
+        "Calorise": "344 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "71,5 г"
+    },
+    {
+        "Title": "Ребрышки Барбекю [Роллтон]",
+        "Calorise": "400 кКал",
+        "Proteins": "6 г",
+        "Fats": "17 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Рожки [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "72 г"
+    },
+    {
+        "Title": "Рожки Яичные [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "2 г",
+        "Carbohydrates": "70 г"
+    },
+    {
+        "Title": "Рожки Яичные [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "13 г",
+        "Fats": "1 г",
+        "Carbohydrates": "70 г"
+    },
+    {
+        "Title": "Соевый Соус [Роллтон]",
+        "Calorise": "25 кКал",
+        "Proteins": "4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2 г"
+    },
+    {
+        "Title": "Спагетти [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "72 г"
+    },
+    {
+        "Title": "Спагетти из Тсп [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "71 г"
+    },
+    {
+        "Title": "Спагетти Яичные [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "2 г",
+        "Carbohydrates": "70 г"
+    },
+    {
+        "Title": "Спирали [Роллтон]",
+        "Calorise": "340 кКал",
+        "Proteins": "11 г",
+        "Fats": "1 г",
+        "Carbohydrates": "71 г"
+    },
+    {
+        "Title": "Спирали с Томатами и Шпинатом [Роллтон]",
+        "Calorise": "343 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "71,2 г"
+    },
+    {
+        "Title": "Трубки с Томатами и Шпинатом [Роллтон]",
+        "Calorise": "343 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "71,2 г"
+    },
+    {
+        "Title": "Хашбраун [Роллтон]",
+        "Calorise": "370 кКал",
+        "Proteins": "7 г",
+        "Fats": "5 г",
+        "Carbohydrates": "75 г"
+    }
+]
